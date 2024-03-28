@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `sequoia-punch-c68`,
-      href: "https://sequoia-punch-c68.notion.site/e4e6243f1be54d05aac07d704fae524a?v=4dc41de2236343e98e9714fcc61c09d3&pvs=4",
+      name: `morethan-log`,
+      href: "https://github.com/morethanmin/morethan-log",
     },
   ],
   // blog setting (required)
