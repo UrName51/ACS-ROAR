@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Official ACS Website`,
+      href: "https://www.acs-schools.com/egham",
     },
   ],
   // blog setting (required)
